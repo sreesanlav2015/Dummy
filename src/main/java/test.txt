@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi this is my 3rd project
+=======
+Hi this is my 1 project
+>>>>>>> refs/remotes/origin/branchtwo
 
 
